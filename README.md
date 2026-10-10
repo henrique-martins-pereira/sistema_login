@@ -7,5 +7,5 @@ Funcionalidades:
 -Banco de dados SQLite
 -Proteção contra login duplificado
 
-''' bash 
+``` bash 
 python login.py
