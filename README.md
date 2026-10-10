@@ -7,4 +7,5 @@ Funcionalidades:
 -Banco de dados SQLite
 -Proteção contra login duplificado
 
-''' bash https://github.com/Henrique-Martins-Pereira/sistema_login.git
+''' bash 
+python login.py
