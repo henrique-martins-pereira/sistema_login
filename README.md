@@ -20,4 +20,4 @@ Sistema simples de cadastro e login feito em Python com banco de dados SQLite. P
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/Henrique-Martins-Pereira/login.git
+git clone https://github.com/henrique-martins-pereira/sistema-login.git
