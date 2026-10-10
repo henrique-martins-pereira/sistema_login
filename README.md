@@ -14,7 +14,7 @@ Sistema simples de cadastro e login feito em Python com banco de dados SQLite. P
 
 - Python 3
 - SQLite3 (nativo do Python)
-- Git
+- Github 
 
 ## 📁 Como usar
 
